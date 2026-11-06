@@ -10,6 +10,6 @@
 - 🔜 Coming soon: exploratory analysis of Greek open data
 
 ### Certifications
-Kaggle Learn: Python · Intro to SQL · Advanced SQL
+Kaggle Learn: Python · Pandas · Intro to SQL · Advanced SQL (2026)
 
 📫 [LinkedIn](https://www.linkedin.com/in/giannis-karkanakis-930a11390) · gianniskarkanakis@gmail.com
